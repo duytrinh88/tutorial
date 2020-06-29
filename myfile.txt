@@ -1,3 +1,5 @@
 testing with branch issue1
 abc xyz
 commit: them giai thich issue2
+pull: lay noi dung cua remote reposity
+
